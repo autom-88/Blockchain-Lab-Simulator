@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain Lab Simulator</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+
+    <div class="logo">
+        Blockchain Lab Simulator
+    </div>
+
+    <nav>
+
+        <a href="#dashboard">Dashboard</a>
+        <a href="#blocks">Blocks</a>
+        <a href="#wallets">Wallets</a>
+        <a href="#transactions">Transactions</a>
+        <a href="#contracts">Contracts</a>
+        <a href="#validators">Validators</a>
+        <a href="#miners">Miners</a>
+        <a href="#nodes">Nodes</a>
+
+    </nav>
+
+</header>
+
+
+
+<section class="hero">
+
+    <h1>Blockchain Lab Simulator</h1>
+
+    <p>
+        Dashboard educativa sviluppata in HTML, CSS e JavaScript
+        per imparare il funzionamento di una blockchain
+        utilizzando dati JSON.
+    </p>
+
+</section>
+
+<section id="quizSection" class="panel">
+
+    <div class="section-header">
+
+        <h2>🧠 Blockchain Quiz</h2>
+
+        <p>
+            Testa le tue conoscenze sulla blockchain, sui wallet,
+            sugli smart contract, sul mining e sugli NFT.
+        </p>
+
+    </div>
+
+    <div class="quiz-toolbar">
+
+        <button id="restartQuizBtn"
+                onclick="restartQuiz()">
+
+            🔄 Restart Quiz
+
+        </button>
+
+    </div>
+
+    <div id="quizContainer">
+
+        <div class="loading">
+
+            Loading quiz...
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="dashboard" class="dashboard">
+
+    <div class="card stat">
+        <h2 id="blockCount">0</h2>
+        <p>Blocks</p>
+    </div>
+
+    <div class="card stat">
+        <h2 id="walletCount">0</h2>
+        <p>Wallets</p>
+    </div>
+
+    <div class="card stat">
+        <h2 id="txCount">0</h2>
+        <p>Transactions</p>
+    </div>
+
+    <div class="card stat">
+        <h2 id="contractCount">0</h2>
+        <p>Contracts</p>
+    </div>
+
+    <div class="card stat">
+        <h2 id="validatorCount">0</h2>
+        <p>Validators</p>
+    </div>
+
+    <div class="card stat">
+        <h2 id="minerCount">0</h2>
+        <p>Miners</p>
+    </div>
+
+</section>
+
+
+
+<section id="blocks">
+
+    <h2>📦 Latest Blocks</h2>
+
+    <div id="blocksContainer" class="grid"></div>
+
+</section>
+
+
+
+<section id="wallets">
+
+    <h2>👛 Wallet Explorer</h2>
+
+    <div id="walletsContainer" class="grid"></div>
+
+</section>
+
+
+
+<section id="transactions">
+
+    <h2>💸 Recent Transactions</h2>
+
+    <div id="transactionsContainer" class="grid"></div>
+
+</section>
+
+
+
+<section id="contracts">
+
+    <h2>📜 Smart Contracts</h2>
+
+    <div id="contractsContainer" class="grid"></div>
+
+</section>
+
+
+
+<section id="validators">
+
+    <h2>✅ Validators</h2>
+
+    <div id="validatorsContainer" class="grid"></div>
+
+</section>
+
+
+
+<section id="miners">
+
+    <h2>⛏ Mining Rigs</h2>
+
+    <div id="minersContainer" class="grid"></div>
+
+</section>
+
+
+
+<section id="nodes">
+
+    <h2>🌐 Network Nodes</h2>
+
+    <div id="nodesContainer" class="grid"></div>
+
+</section>
+
+
+
+<section id="nfts">
+
+    <h2>🖼 NFT Marketplace</h2>
+
+    <div id="nftsContainer" class="grid"></div>
+
+</section>
+
+
+
+<section id="portfolio">
+
+    <h2>📈 Crypto Portfolio</h2>
+
+    <div id="portfolioContainer" class="grid"></div>
+
+</section>
+
+
+
+<section id="quiz">
+
+    <h2>🎯 Blockchain Quiz</h2>
+
+    <div id="quizContainer"></div>
+
+</section>
+
+
+
+<section class="terminal-section">
+
+    <h2>💻 Network Terminal</h2>
+
+    <div class="terminal">
+
+        <div id="terminalOutput"></div>
+
+        <button id="simulateBtn">
+            Simulate Blockchain Scan
+        </button>
+
+    </div>
+
+</section>
+
+
+
+<footer>
+
+    <p>
+        Blockchain Lab Simulator • Educational Project
+        • HTML • CSS • JavaScript • JSON
+    </p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
