@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Cos'è una blockchain?",
+    "answers": [
+      "Un registro distribuito",
+      "Un antivirus",
+      "Un browser",
+      "Un database SQL"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Quale algoritmo utilizza Bitcoin?",
+    "answers": [
+      "SHA-256",
+      "MD5",
+      "AES",
+      "RSA"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cos'è un blocco?",
+    "answers": [
+      "Un insieme di transazioni",
+      "Un wallet",
+      "Un nodo",
+      "Una criptovaluta"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cosa identifica un hash?",
+    "answers": [
+      "Un'impronta digitale dei dati",
+      "Un indirizzo IP",
+      "Una password",
+      "Un token"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chi valida le transazioni in una blockchain Proof of Stake?",
+    "answers": [
+      "I validator",
+      "I firewall",
+      "I browser",
+      "I DNS"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Che cos'è un wallet?",
+    "answers": [
+      "Un portafoglio di chiavi crittografiche",
+      "Un hard disk",
+      "Un server web",
+      "Un router"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cosa contiene un blocco?",
+    "answers": [
+      "Hash, transazioni e timestamp",
+      "Solo password",
+      "Solo immagini",
+      "Solo smart contract"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cos'è uno smart contract?",
+    "answers": [
+      "Un contratto eseguito automaticamente",
+      "Un antivirus",
+      "Un database",
+      "Una VPN"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Quale rete utilizza gli smart contract più conosciuti?",
+    "answers": [
+      "Ethereum",
+      "FTP",
+      "SMTP",
+      "HTTP"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cos'è un validator?",
+    "answers": [
+      "Un nodo che convalida blocchi",
+      "Un miner GPU",
+      "Un browser",
+      "Un wallet hardware"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Che cos'è un NFT?",
+    "answers": [
+      "Un token non fungibile",
+      "Una criptovaluta stabile",
+      "Una blockchain",
+      "Un algoritmo"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Qual è la criptovaluta più conosciuta?",
+    "answers": [
+      "Bitcoin",
+      "FTP",
+      "HTML",
+      "Oracle"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Quale rete è famosa per gli smart contract?",
+    "answers": [
+      "Ethereum",
+      "Bluetooth",
+      "Wi-Fi",
+      "USB"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cosa rappresenta il timestamp di un blocco?",
+    "answers": [
+      "La data e l'ora di creazione",
+      "Il saldo del wallet",
+      "La temperatura del miner",
+      "La velocità della rete"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Che cos'è il mining?",
+    "answers": [
+      "Il processo di creazione e validazione dei blocchi",
+      "La vendita di NFT",
+      "Il backup del wallet",
+      "La cifratura del disco"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cosa indica l'hashrate?",
+    "answers": [
+      "La potenza di calcolo",
+      "La memoria RAM",
+      "La velocità di Internet",
+      "La temperatura della CPU"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Perché ogni blocco contiene l'hash del precedente?",
+    "answers": [
+      "Per mantenere la catena integra",
+      "Per aumentare il prezzo",
+      "Per ridurre la memoria",
+      "Per creare wallet"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cos'è una transazione confermata?",
+    "answers": [
+      "Una transazione inserita in un blocco valido",
+      "Una password salvata",
+      "Un NFT venduto",
+      "Una connessione VPN"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Qual è il simbolo di Bitcoin?",
+    "answers": [
+      "BTC",
+      "ETH",
+      "SOL",
+      "ADA"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Qual è il simbolo di Ethereum?",
+    "answers": [
+      "ETH",
+      "BTC",
+      "BNB",
+      "DOT"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cosa fa un nodo blockchain?",
+    "answers": [
+      "Condivide e sincronizza il registro",
+      "Disegna NFT",
+      "Crea password",
+      "Esegue backup"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cos'è il consenso?",
+    "answers": [
+      "L'accordo dei nodi sullo stato della blockchain",
+      "Un wallet",
+      "Un antivirus",
+      "Una criptovaluta"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Quale rete è nota per basse commissioni?",
+    "answers": [
+      "Polygon",
+      "SMTP",
+      "POP3",
+      "FTP"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cosa rappresenta una chiave privata?",
+    "answers": [
+      "La credenziale segreta del wallet",
+      "L'indirizzo pubblico",
+      "L'hash del blocco",
+      "Il nome del miner"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Qual è lo scopo principale della blockchain?",
+    "answers": [
+      "Garantire integrità e trasparenza dei dati",
+      "Velocizzare Internet",
+      "Sostituire i browser",
+      "Creare sistemi operativi"
+    ],
+    "correct": 0
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "address": "0xA1B2C3D4E5F601",
+    "owner": "Alice",
+    "network": "Ethereum",
+    "balance": 12.4587,
+    "status": "Online"
+  },
+  {
+    "address": "0xB2C3D4E5F6A702",
+    "owner": "Bob",
+    "network": "Ethereum",
+    "balance": 8.2145,
+    "status": "Online"
+  },
+  {
+    "address": "0xC3D4E5F6A7B803",
+    "owner": "Charlie",
+    "network": "Polygon",
+    "balance": 15.8873,
+    "status": "Online"
+  },
+  {
+    "address": "0xD4E5F6A7B8C904",
+    "owner": "Diana",
+    "network": "Solana",
+    "balance": 4.3268,
+    "status": "Offline"
+  },
+  {
+    "address": "0xE5F6A7B8C9DA05",
+    "owner": "Ethan",
+    "network": "Ethereum",
+    "balance": 21.6542,
+    "status": "Online"
+  },
+  {
+    "address": "0xF6A7B8C9DAEB06",
+    "owner": "Fiona",
+    "network": "BNB Chain",
+    "balance": 6.9451,
+    "status": "Online"
+  },
+  {
+    "address": "0xA7B8C9DAEBFC07",
+    "owner": "George",
+    "network": "Avalanche",
+    "balance": 11.3348,
+    "status": "Online"
+  },
+  {
+    "address": "0xB8C9DAEBFC0D08",
+    "owner": "Helen",
+    "network": "Polygon",
+    "balance": 3.1254,
+    "status": "Offline"
+  },
+  {
+    "address": "0xC9DAEBFC0D1E09",
+    "owner": "Ivan",
+    "network": "Ethereum",
+    "balance": 18.2765,
+    "status": "Online"
+  },
+  {
+    "address": "0xDAEBFC0D1E2F10",
+    "owner": "Julia",
+    "network": "Arbitrum",
+    "balance": 5.9182,
+    "status": "Online"
+  },
+  {
+    "address": "0xEBFC0D1E2F3011",
+    "owner": "Kevin",
+    "network": "Optimism",
+    "balance": 9.6637,
+    "status": "Online"
+  },
+  {
+    "address": "0xFC0D1E2F304112",
+    "owner": "Laura",
+    "network": "Solana",
+    "balance": 2.4186,
+    "status": "Offline"
+  },
+  {
+    "address": "0x0D1E2F30415213",
+    "owner": "Michael",
+    "network": "Ethereum",
+    "balance": 25.0019,
+    "status": "Online"
+  },
+  {
+    "address": "0x1E2F3041526314",
+    "owner": "Nora",
+    "network": "Cardano",
+    "balance": 7.8423,
+    "status": "Online"
+  },
+  {
+    "address": "0x2F304152637415",
+    "owner": "Oliver",
+    "network": "Polygon",
+    "balance": 13.5568,
+    "status": "Online"
+  }
+]

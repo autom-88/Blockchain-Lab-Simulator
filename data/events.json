@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-07-02 09:58:42",
+    "type": "BLOCK",
+    "title": "New Block Mined",
+    "description": "Block #1258 successfully added to the blockchain.",
+    "severity": "INFO",
+    "icon": "🧱"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-07-02 09:57:10",
+    "type": "TRANSACTION",
+    "title": "Large Transaction",
+    "description": "Transfer of 5.00 BTC confirmed.",
+    "severity": "SUCCESS",
+    "icon": "💸"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-07-02 09:56:33",
+    "type": "SMART CONTRACT",
+    "title": "Contract Deployed",
+    "description": "NFTMarketplace v2.1 deployed on Polygon.",
+    "severity": "SUCCESS",
+    "icon": "📜"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-07-02 09:54:41",
+    "type": "VALIDATOR",
+    "title": "Validator Joined",
+    "description": "Validator Omega joined the consensus.",
+    "severity": "INFO",
+    "icon": "✅"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-07-02 09:53:27",
+    "type": "MINER",
+    "title": "High Hashrate",
+    "description": "Mining Rig 08 reached 155.7 TH/s.",
+    "severity": "SUCCESS",
+    "icon": "⛏️"
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-07-02 09:51:16",
+    "type": "NODE",
+    "title": "Node Offline",
+    "description": "Cape Town Node is temporarily offline.",
+    "severity": "WARNING",
+    "icon": "🌐"
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-07-02 09:48:55",
+    "type": "NFT",
+    "title": "NFT Sold",
+    "description": "Genesis Core sold for 9.25 ETH.",
+    "severity": "SUCCESS",
+    "icon": "🖼️"
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-07-02 09:46:02",
+    "type": "PORTFOLIO",
+    "title": "Portfolio Updated",
+    "description": "BTC price increased by 2.84%.",
+    "severity": "INFO",
+    "icon": "📈"
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-07-02 09:43:44",
+    "type": "SECURITY",
+    "title": "Invalid Transaction",
+    "description": "Transaction TX0026 rejected.",
+    "severity": "ERROR",
+    "icon": "🚨"
+  },
+  {
+    "id": 10,
+    "timestamp": "2026-07-02 09:40:19",
+    "type": "NETWORK",
+    "title": "Consensus Completed",
+    "description": "All validators synchronized successfully.",
+    "severity": "SUCCESS",
+    "icon": "🔗"
+  },
+  {
+    "id": 11,
+    "timestamp": "2026-07-02 09:37:06",
+    "type": "BLOCK",
+    "title": "Difficulty Updated",
+    "description": "Network difficulty adjusted to level 8.",
+    "severity": "INFO",
+    "icon": "⚙️"
+  },
+  {
+    "id": 12,
+    "timestamp": "2026-07-02 09:34:55",
+    "type": "NFT",
+    "title": "Collection Minted",
+    "description": "20 new NFTs minted by Automa Studio.",
+    "severity": "SUCCESS",
+    "icon": "🎨"
+  },
+  {
+    "id": 13,
+    "timestamp": "2026-07-02 09:31:28",
+    "type": "VALIDATOR",
+    "title": "Reward Distributed",
+    "description": "Validator Alpha received 12.8 ETH.",
+    "severity": "SUCCESS",
+    "icon": "🏆"
+  },
+  {
+    "id": 14,
+    "timestamp": "2026-07-02 09:28:16",
+    "type": "NETWORK",
+    "title": "Latency Improved",
+    "description": "Average latency dropped to 22 ms.",
+    "severity": "INFO",
+    "icon": "⚡"
+  },
+  {
+    "id": 15,
+    "timestamp": "2026-07-02 09:25:40",
+    "type": "SYSTEM",
+    "title": "Blockchain Healthy",
+    "description": "Network health is 99.82%.",
+    "severity": "SUCCESS",
+    "icon": "💚"
+  }
+]

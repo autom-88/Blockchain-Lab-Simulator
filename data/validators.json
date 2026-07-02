@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Validator Alpha",
+    "stake": 32000,
+    "uptime": 99.98,
+    "rewards": 142.75,
+    "status": "Online"
+  },
+  {
+    "name": "Validator Beta",
+    "stake": 28500,
+    "uptime": 99.92,
+    "rewards": 126.40,
+    "status": "Online"
+  },
+  {
+    "name": "Validator Gamma",
+    "stake": 41500,
+    "uptime": 99.99,
+    "rewards": 183.15,
+    "status": "Online"
+  },
+  {
+    "name": "Validator Delta",
+    "stake": 19800,
+    "uptime": 98.76,
+    "rewards": 84.25,
+    "status": "Offline"
+  },
+  {
+    "name": "Validator Epsilon",
+    "stake": 35750,
+    "uptime": 99.87,
+    "rewards": 158.60,
+    "status": "Online"
+  },
+  {
+    "name": "Validator Zeta",
+    "stake": 27300,
+    "uptime": 99.55,
+    "rewards": 118.90,
+    "status": "Online"
+  },
+  {
+    "name": "Validator Eta",
+    "stake": 30150,
+    "uptime": 99.73,
+    "rewards": 132.45,
+    "status": "Online"
+  },
+  {
+    "name": "Validator Theta",
+    "stake": 17600,
+    "uptime": 97.94,
+    "rewards": 73.85,
+    "status": "Offline"
+  },
+  {
+    "name": "Validator Iota",
+    "stake": 38900,
+    "uptime": 99.96,
+    "rewards": 171.20,
+    "status": "Online"
+  },
+  {
+    "name": "Validator Kappa",
+    "stake": 24600,
+    "uptime": 99.41,
+    "rewards": 104.70,
+    "status": "Online"
+  },
+  {
+    "name": "Validator Lambda",
+    "stake": 33350,
+    "uptime": 99.82,
+    "rewards": 146.30,
+    "status": "Online"
+  },
+  {
+    "name": "Validator Omega",
+    "stake": 45200,
+    "uptime": 100.00,
+    "rewards": 198.95,
+    "status": "Online"
+  }
+]

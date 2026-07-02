@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Mining Rig 01",
+    "hashrate": 142.5,
+    "temperature": 61,
+    "power": 980,
+    "status": "Online"
+  },
+  {
+    "name": "Mining Rig 02",
+    "hashrate": 136.8,
+    "temperature": 64,
+    "power": 1015,
+    "status": "Online"
+  },
+  {
+    "name": "Mining Rig 03",
+    "hashrate": 128.3,
+    "temperature": 66,
+    "power": 960,
+    "status": "Online"
+  },
+  {
+    "name": "Mining Rig 04",
+    "hashrate": 151.2,
+    "temperature": 63,
+    "power": 1040,
+    "status": "Online"
+  },
+  {
+    "name": "Mining Rig 05",
+    "hashrate": 119.6,
+    "temperature": 68,
+    "power": 930,
+    "status": "Offline"
+  },
+  {
+    "name": "Mining Rig 06",
+    "hashrate": 145.1,
+    "temperature": 62,
+    "power": 995,
+    "status": "Online"
+  },
+  {
+    "name": "Mining Rig 07",
+    "hashrate": 132.4,
+    "temperature": 65,
+    "power": 970,
+    "status": "Online"
+  },
+  {
+    "name": "Mining Rig 08",
+    "hashrate": 155.7,
+    "temperature": 60,
+    "power": 1065,
+    "status": "Online"
+  },
+  {
+    "name": "Mining Rig 09",
+    "hashrate": 124.8,
+    "temperature": 69,
+    "power": 945,
+    "status": "Offline"
+  },
+  {
+    "name": "Mining Rig 10",
+    "hashrate": 149.3,
+    "temperature": 61,
+    "power": 1030,
+    "status": "Online"
+  },
+  {
+    "name": "Mining Rig 11",
+    "hashrate": 138.6,
+    "temperature": 64,
+    "power": 990,
+    "status": "Online"
+  },
+  {
+    "name": "Mining Rig 12",
+    "hashrate": 147.9,
+    "temperature": 62,
+    "power": 1025,
+    "status": "Online"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "coin": "Bitcoin",
+    "symbol": "BTC",
+    "amount": 0.8500,
+    "buyPrice": 28500.00,
+    "currentPrice": 43875.42
+  },
+  {
+    "coin": "Ethereum",
+    "symbol": "ETH",
+    "amount": 12.5000,
+    "buyPrice": 1850.00,
+    "currentPrice": 3125.80
+  },
+  {
+    "coin": "BNB",
+    "symbol": "BNB",
+    "amount": 35.0000,
+    "buyPrice": 310.00,
+    "currentPrice": 542.75
+  },
+  {
+    "coin": "Solana",
+    "symbol": "SOL",
+    "amount": 150.0000,
+    "buyPrice": 82.50,
+    "currentPrice": 146.30
+  },
+  {
+    "coin": "Cardano",
+    "symbol": "ADA",
+    "amount": 4200.0000,
+    "buyPrice": 0.42,
+    "currentPrice": 0.91
+  },
+  {
+    "coin": "Polygon",
+    "symbol": "POL",
+    "amount": 3500.0000,
+    "buyPrice": 0.72,
+    "currentPrice": 1.08
+  },
+  {
+    "coin": "Avalanche",
+    "symbol": "AVAX",
+    "amount": 240.0000,
+    "buyPrice": 24.80,
+    "currentPrice": 41.60
+  },
+  {
+    "coin": "Chainlink",
+    "symbol": "LINK",
+    "amount": 520.0000,
+    "buyPrice": 12.40,
+    "currentPrice": 19.85
+  },
+  {
+    "coin": "Polkadot",
+    "symbol": "DOT",
+    "amount": 680.0000,
+    "buyPrice": 6.90,
+    "currentPrice": 10.75
+  },
+  {
+    "coin": "Arbitrum",
+    "symbol": "ARB",
+    "amount": 2800.0000,
+    "buyPrice": 0.95,
+    "currentPrice": 1.48
+  }
+]

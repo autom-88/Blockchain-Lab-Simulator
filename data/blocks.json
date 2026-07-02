@@ -1,0 +1,222 @@
+[
+  {
+    "height": 1258,
+    "hash": "0000000A8F4B91CDE4528ABF1258",
+    "previousHash": "0000000B9E3A12CFF7841ADF1257",
+    "miner": "Node Alpha",
+    "transactions": 245,
+    "difficulty": 7,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 09:58:21",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1257,
+    "hash": "0000000B9E3A12CFF7841ADF1257",
+    "previousHash": "0000000C7D2E90BEE6932BCD1256",
+    "miner": "Validator One",
+    "transactions": 198,
+    "difficulty": 7,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 09:48:02",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1256,
+    "hash": "0000000C7D2E90BEE6932BCD1256",
+    "previousHash": "0000000D6A4F31ACC5821ABC1255",
+    "miner": "Mining Rig 01",
+    "transactions": 321,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 09:37:54",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1255,
+    "hash": "0000000D6A4F31ACC5821ABC1255",
+    "previousHash": "0000000E5B3A41BCD4712AAA1254",
+    "miner": "Rome Node",
+    "transactions": 187,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 09:28:16",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1254,
+    "hash": "0000000E5B3A41BCD4712AAA1254",
+    "previousHash": "0000000F4C2B52ABC3601FFF1253",
+    "miner": "Node Beta",
+    "transactions": 279,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 09:18:04",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1253,
+    "hash": "0000000F4C2B52ABC3601FFF1253",
+    "previousHash": "000000104B1A63ABB2590EEE1252",
+    "miner": "Validator Prime",
+    "transactions": 312,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 09:07:37",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1252,
+    "hash": "000000104B1A63ABB2590EEE1252",
+    "previousHash": "000000115A2B74AAA1480DDD1251",
+    "miner": "Mining Rig 02",
+    "transactions": 205,
+    "difficulty": 7,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 08:57:29",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1251,
+    "hash": "000000115A2B74AAA1480DDD1251",
+    "previousHash": "000000126B3C85BBB0370CCC1250",
+    "miner": "Node Gamma",
+    "transactions": 166,
+    "difficulty": 7,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 08:47:10",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1250,
+    "hash": "000000126B3C85BBB0370CCC1250",
+    "previousHash": "000000137C4D96CCC9260BBB1249",
+    "miner": "Validator Delta",
+    "transactions": 287,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 08:36:44",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1249,
+    "hash": "000000137C4D96CCC9260BBB1249",
+    "previousHash": "000000148D5EA7DDD8150AAA1248",
+    "miner": "Mining Rig 03",
+    "transactions": 221,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 08:26:19",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1248,
+    "hash": "000000148D5EA7DDD8150AAA1248",
+    "previousHash": "000000159E6FB8EEE70409991247",
+    "miner": "Node Omega",
+    "transactions": 194,
+    "difficulty": 7,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 08:15:55",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1247,
+    "hash": "000000159E6FB8EEE70409991247",
+    "previousHash": "00000016AF70C9FFF69318881246",
+    "miner": "Validator Sigma",
+    "transactions": 338,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 08:05:41",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1246,
+    "hash": "00000016AF70C9FFF69318881246",
+    "previousHash": "00000017B081DAAAA58227771245",
+    "miner": "Mining Rig 04",
+    "transactions": 172,
+    "difficulty": 7,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 07:55:22",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1245,
+    "hash": "00000017B081DAAAA58227771245",
+    "previousHash": "00000018C192EBBBB47136661244",
+    "miner": "Node Horizon",
+    "transactions": 261,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 07:45:03",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1244,
+    "hash": "00000018C192EBBBB47136661244",
+    "previousHash": "00000019D2A3FCCCC36045551243",
+    "miner": "Validator Atlas",
+    "transactions": 149,
+    "difficulty": 7,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 07:34:40",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1243,
+    "hash": "00000019D2A3FCCCC36045551243",
+    "previousHash": "00000020E3B4ADDDD25954441242",
+    "miner": "Mining Rig 05",
+    "transactions": 307,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 07:24:17",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1242,
+    "hash": "00000020E3B4ADDDD25954441242",
+    "previousHash": "00000021F4C5BEEEE14863331241",
+    "miner": "Node Phoenix",
+    "transactions": 211,
+    "difficulty": 7,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 07:14:01",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1241,
+    "hash": "00000021F4C5BEEEE14863331241",
+    "previousHash": "00000022A5D6CFFFF03772221240",
+    "miner": "Validator Orion",
+    "transactions": 233,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 07:03:46",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1240,
+    "hash": "00000022A5D6CFFFF03772221240",
+    "previousHash": "00000023B6E7DAAAA92681111239",
+    "miner": "Mining Rig 06",
+    "transactions": 184,
+    "difficulty": 7,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 06:53:19",
+    "status": "Confirmed"
+  },
+  {
+    "height": 1239,
+    "hash": "00000023B6E7DAAAA92681111239",
+    "previousHash": "00000024C7F8EBBBB81590001238",
+    "miner": "Node Eclipse",
+    "transactions": 296,
+    "difficulty": 8,
+    "reward": 3.125,
+    "timestamp": "2026-07-02 06:42:58",
+    "status": "Confirmed"
+  }
+]

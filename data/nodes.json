@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Rome Node",
+    "country": "Italy",
+    "latency": 21,
+    "version": "2.1.0",
+    "status": "Online"
+  },
+  {
+    "name": "Milan Node",
+    "country": "Italy",
+    "latency": 18,
+    "version": "2.1.0",
+    "status": "Online"
+  },
+  {
+    "name": "Paris Node",
+    "country": "France",
+    "latency": 24,
+    "version": "2.1.0",
+    "status": "Online"
+  },
+  {
+    "name": "Berlin Node",
+    "country": "Germany",
+    "latency": 19,
+    "version": "2.1.0",
+    "status": "Online"
+  },
+  {
+    "name": "Madrid Node",
+    "country": "Spain",
+    "latency": 27,
+    "version": "2.0.9",
+    "status": "Online"
+  },
+  {
+    "name": "London Node",
+    "country": "United Kingdom",
+    "latency": 16,
+    "version": "2.1.0",
+    "status": "Online"
+  },
+  {
+    "name": "New York Node",
+    "country": "United States",
+    "latency": 42,
+    "version": "2.1.0",
+    "status": "Online"
+  },
+  {
+    "name": "Toronto Node",
+    "country": "Canada",
+    "latency": 39,
+    "version": "2.0.9",
+    "status": "Online"
+  },
+  {
+    "name": "São Paulo Node",
+    "country": "Brazil",
+    "latency": 71,
+    "version": "2.0.8",
+    "status": "Offline"
+  },
+  {
+    "name": "Tokyo Node",
+    "country": "Japan",
+    "latency": 128,
+    "version": "2.1.0",
+    "status": "Online"
+  },
+  {
+    "name": "Singapore Node",
+    "country": "Singapore",
+    "latency": 144,
+    "version": "2.1.0",
+    "status": "Online"
+  },
+  {
+    "name": "Sydney Node",
+    "country": "Australia",
+    "latency": 189,
+    "version": "2.0.9",
+    "status": "Online"
+  },
+  {
+    "name": "Dubai Node",
+    "country": "United Arab Emirates",
+    "latency": 83,
+    "version": "2.1.0",
+    "status": "Online"
+  },
+  {
+    "name": "Cape Town Node",
+    "country": "South Africa",
+    "latency": 162,
+    "version": "2.0.8",
+    "status": "Offline"
+  },
+  {
+    "name": "Seoul Node",
+    "country": "South Korea",
+    "latency": 136,
+    "version": "2.1.0",
+    "status": "Online"
+  }
+]

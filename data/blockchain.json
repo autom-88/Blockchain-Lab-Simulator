@@ -1,1 +1,40 @@
-
+{
+  "name": "Blockchain Lab Simulator",
+  "symbol": "BLS",
+  "network": "Educational TestNet",
+  "version": "1.0.0",
+  "consensus": "Proof of Stake",
+  "algorithm": "SHA-256",
+  "genesisBlock": 0,
+  "currentHeight": 1258,
+  "difficulty": 7,
+  "blockReward": 3.125,
+  "averageBlockTime": 10,
+  "circulatingSupply": 18542000,
+  "maxSupply": 21000000,
+  "activeWallets": 4586,
+  "activeValidators": 32,
+  "activeMiners": 18,
+  "activeNodes": 56,
+  "pendingTransactions": 18,
+  "confirmedTransactions": 182745,
+  "market": {
+    "priceUSD": 43875.42,
+    "marketCap": 813254000000,
+    "volume24h": 15482000000,
+    "change24h": 2.84
+  },
+  "networkStatus": {
+    "status": "Healthy",
+    "health": 99.82,
+    "latency": 22,
+    "uptime": 99.98
+  },
+  "statistics": {
+    "blocksToday": 144,
+    "transactionsToday": 3218,
+    "newWalletsToday": 96,
+    "contractsDeployed": 487,
+    "nftMinted": 1154
+  }
+}
