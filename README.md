@@ -238,4 +238,4 @@ Give the repository a ⭐ and feel free to contribute with new educational modul
 
 👨‍💻 Autore
 
-Sviluppato da autom-88
+Sviluppato da Rudy Quaranta 
